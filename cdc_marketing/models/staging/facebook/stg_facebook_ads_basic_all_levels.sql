@@ -1,3 +1,5 @@
+{{ config(enabled=false) }}
+
 {{
     config(
         event_time='ad_date',
